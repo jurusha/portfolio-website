@@ -1,0 +1,15 @@
+portfolio-website/
+│
+├── index.html            # Homepage HTML file
+├── about.html            # About page HTML file (optional)
+├── contact.html          # Contact page HTML file (optional)
+├── assets/               # Folder for images, CSS, and JS
+│   ├── css/
+│   │   └── styles.css    # Styles for your website
+│   ├── images/
+│   │   └── profile.jpg   # Profile picture or any image
+│   ├── js/
+│   │   └── app.js        # Optional JavaScript file
+│   └── favicon.ico       # Favicon for the website
+├── .gitignore            # Git ignore file (optional)
+├── README.md             # README file (optional)
